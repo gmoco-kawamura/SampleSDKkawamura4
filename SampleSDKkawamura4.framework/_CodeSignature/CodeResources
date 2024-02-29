@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SampleSDKkawamura4.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		swCZZWlbc0rjhEaf/atGNJd1L1M=
+		UYrKnUDDzrkknuXw3fwrClpsCBI=
 		</data>
 		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O0mwczCtfoyWrp/LtoLPAq4Eyik=
+		PXJI2ujZ6ybL6jPTinUB/ymuuu0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -165,7 +165,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LI830nd5eYH4oYXUoROjDiF7dZ1ioYEfxSGY8TgW+vw=
+			9H5yoVgW6DL2Btfduc0qjtvTVArEGCD4fXlhtw5RMFc=
 			</data>
 		</dict>
 		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -186,7 +186,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wEMmpB0ZLNh0oW3n7GxTh9DeJe/YGlmYWxxhk5CaMs0=
+			nEtWJ04RxiUj0THrfQutN7UbV2ifuHyv3BFHlD4rXNw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
